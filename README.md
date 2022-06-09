@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm finishing up my learning at bloom tech, and I can't wait. I like to go to the gym and code for fun something like that ...
 
 <!--
 **dshipuk/dshipuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
