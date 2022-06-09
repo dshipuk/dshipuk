@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate Full Stack Developer from the US</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Finishing Up BloomTech**
 
