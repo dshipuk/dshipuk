@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Node.JS, Redux, Express**
 
-- 📫 How to reach me **dshipuk@yahoo.com**
+- 📫 How to reach me **davidshipuk1@gmail.com**
 
 - ⚡ Fun fact **I love exercising, playing sports, and coding**
 
