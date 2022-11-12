@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Finishing Up BloomTech**
+- 🔭 I’m currently working on **finding a job as I work on personal projects**
 
 - 💬 Ask me about **React, Node.JS, Redux, Express**
 
